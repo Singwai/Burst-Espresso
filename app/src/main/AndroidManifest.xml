@@ -25,11 +25,6 @@
                 <data
                     android:host="bloglovin.com"
                     android:pathPattern="/collections/..*"
-                    android:scheme="bloglovin"/>
-
-                <data
-                    android:host="bloglovin.com"
-                    android:pathPattern="/collections/..*"
                     android:scheme="http"/>
 
                 <data
